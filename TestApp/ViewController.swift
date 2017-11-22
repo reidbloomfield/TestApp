@@ -23,3 +23,6 @@ class ViewController: UIViewController {
 
 }
 
+//New comment to test GitHub Commit
+
+//Ditto from above. test 2 commit
